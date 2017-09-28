@@ -1,2 +1,0 @@
-/home/j557d600/Documents/EECS_678/Proj_01/quash/test-cases/t2_find/sandbox/dir3/dir3-1/valgrind_expected.txt
-/home/j557d600/Documents/EECS_678/Proj_01/quash/test-cases/t2_find/sandbox/dir3/valgrind_expected.txt
