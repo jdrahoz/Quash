@@ -1,5 +1,15 @@
+# extra folders
 doc
 quash_tutorial
 test-cases
 
-*.zip
+# extra files
+.valgrind_expected.txt
+results.txt
+out.txt
+quash.doxygen
+quash_description.html
+run_tests.bash
+
+# my stuff
+2441134-project1-quash*
